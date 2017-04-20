@@ -10,27 +10,17 @@ Personal project to be released soon.
 <br>
 
 #### Grocery Cop
-
-<table style="width:100%">
-  <tr>
-    <td><img src="images/grocery1.png" width=100%></td> 
-    <td><img src="images/grocery2.png" width=100%></td>
-    <td><img src="images/grocery3.png" width=100%></td>
-  </tr>
-</table>
+|![](images/grocery1.png)  | ![](images/grocery2.png)  | ![](images/grocery3.png)|
+:-------------------------:|:-------------------------:|:-----------------------:
 
 Want to save money on your groceries?
 
 See all the current products, and compare their prices between Australia's two biggest supermarkets, Coles and Woolworths.
 #### Verby Nouns
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/verby1.png" width=100%></td> 
-    <td><img src="images/verby2.png" width=100%></td>
-    <td><img src="images/verby3.png" width=100%></td>
-  </tr>
-</table>
+
+|![](images/verby1.png)  | ![](images/verby2.png)  | ![](images/verby3.png)|
+:----------------------:|:-----------------------:|:----------------------:
 
 Mobile games with Verby Noun titles are all the craze, this app lets you create your own Verby Noun game titles.
 
@@ -39,13 +29,8 @@ Mobile games with Verby Noun titles are all the craze, this app lets you create 
 
 #### Punters
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/punters1.jpg" width=100%></td>
-    <td><img src="images/punters2.jpg" width=100%></td> 
-    <td><img src="images/punters3.jpg" width=100%></td>
-  </tr>
-</table>
+|![](images/punters1.jpg)  | ![](images/punters2.jpg)  | ![](images/punters3.jpg)|
+:-------------------------:|:-------------------------:|:-----------------------:
 
 Predict the outcome of races based on a horses' past performance, compare bookmaker prices, sell your tips, and chat with other punters.
 
@@ -54,13 +39,9 @@ Australia only. [App Store](https://itunes.apple.com/au/app/punters-horse-racing
 
 #### Best Odds
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/bestodds1.jpg" width=100%></td>
-    <td><img src="images/bestodds2.jpg" width=100%></td> 
-    <td><img src="images/bestodds3.jpg" width=100%></td>
-  </tr>
-</table>
+
+|![](images/bestodds1.jpg) | ![](images/bestodds2.jpg) | ![](images/bestodds3.jpg)|
+:-------------------------:|:-------------------------:|:------------------------:
 
 Compare bookmaker odds and prices for a large variety of sporting events.
 
@@ -69,13 +50,9 @@ Australia Only. [App Store](https://itunes.apple.com/au/app/best-odds-compare-bo
 
 #### Task Sorter
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/tasksorter1.png" width=100%></td>
-    <td><img src="images/tasksorter2.png" width=100%></td> 
-    <td><img src="images/tasksorter3.png" width=100%></td>
-  </tr>
-</table>
+
+|![](images/tasksorter1.png) | ![](images/tasksorter2.png) | ![](images/tasksorter3.png)|
+:---------------------------:|:---------------------------:|:--------------------------:
 
 Features planning poker cards, and includes a simple algorithm for sorting tasks based on their sizes. 
 
@@ -93,13 +70,9 @@ Practice your chords, sight-reading, strumming, and playing to a metronome all a
 
 #### Music Resources
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/resources1.jpeg" width=100%></td>
-    <td><img src="images/resources2.jpeg" width=100%></td> 
-    <td><img src="images/resources3.jpeg" width=100%></td>
-  </tr>
-</table>
+
+|![](images/resources1.jpeg) | ![](images/resources2.jpeg) | ![](images/resources3.jpeg)|
+:---------------------------:|:---------------------------:|:--------------------------:
 
 Huge collection of music worksheets, diagrams and charts for music teachers and students.
 [App Store](https://itunes.apple.com/au/app/music-resources-theory-worksheets/id511267746?mt=8)
@@ -107,13 +80,9 @@ Huge collection of music worksheets, diagrams and charts for music teachers and 
 <br>
 #### Trash Talker
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/trash1.jpg" width=100%></td>
-    <td><img src="images/trash2.jpg" width=100%></td> 
-  </tr>
-</table>
 
+|![](images/trash1.jpg).   | ![](images/trash2.jpg)   |
+:-------------------------:|:------------------------:
 Pick a character, cover your mouth with your device, and start talking! The character's mouth animations change depending on how loud you speak. 
 [App Store](https://itunes.apple.com/au/app/trash-talker/id778247287?mt=8)
 
@@ -123,12 +92,8 @@ Pick a character, cover your mouth with your device, and start talking! The char
 
 #### Splat
 
-<table style="width:100%">
-  <tr>
-    <td><img src="images/splat1.jpeg" width=100%></td>
-    <td><img src="images/splat2.jpeg" width=100%></td> 
-  </tr>
-</table>
+|![](images/splat1.jpeg) | ![](images/splat2.jpeg) |
+:-----------------------:|:-----------------------:
 
 This app is just like the card game "Snap!", except with a Trash Pack theme.
 [App Store](https://itunes.apple.com/us/app/splat/id812654506?mt=8)
@@ -136,12 +101,10 @@ This app is just like the card game "Snap!", except with a Trash Pack theme.
 <br>
 
 #### Mystery of the Lost Red Scarf
-<table style="width:100%">
-  <tr>
-<td><img src="images/scarf2.jpg" width=100%></td>
-    <td><img src="images/scarf1.jpg" width=100%></td>
-  </tr>
-</table>
+
+|![](images/scarf1.jpg) | ![](images/scarf2.jpg) |
+:----------------------:|:----------------------:
+
 Interactive storybook for children. It features facts for all ages, and alternate endings. Created with beautiful watercolour artwork.
 [App Store](https://itunes.apple.com/au/app/mystery-lost-red-scarf-magical/id890732956?mt=8)
 
