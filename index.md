@@ -12,6 +12,7 @@ Personal project to be released soon.
 #### Grocery Cop
 |![](images/grocery1.png)  | ![](images/grocery2.png)  | ![](images/grocery3.png)|
 :-------------------------:|:-------------------------:|:-----------------------:
+| ![](images/grocery1.png)|![](images/grocery1.png)|![](images/grocery1.png)|
 
 Want to save money on your groceries?
 
