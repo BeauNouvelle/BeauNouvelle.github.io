@@ -2,10 +2,6 @@
 #### flunky
 ![](images/flunky.png)
 
-| Some title |
-|------------|
-| This |
-
 A new kind of chat application with a built in passive personal assistant. Ask a friend if they're busy, and the assistant on their device will check their calendar and respond automatically.
 
 Ask how far away they are, and the assistant will check the users location and automatically respond.
@@ -15,8 +11,8 @@ Personal project to be released soon.
 
 #### Grocery Cop
 |![](images/grocery1.png)  | ![](images/grocery2.png)  | ![](images/grocery3.png)|
-:-------------------------:|:-------------------------:|:-----------------------:
-| ![](images/grocery1.png)|![](images/grocery1.png)|![](images/grocery1.png)|
+|--------------------------|---------------------------|-------------------------|
+| ![](images/grocery1.png) |  ![](images/grocery1.png) | ![](images/grocery1.png)|
 
 Want to save money on your groceries?
 
