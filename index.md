@@ -1,5 +1,5 @@
 
-#### flunky
+## flunky
 ![](images/flunky.png)
 
 A new kind of chat application with a built in passive personal assistant. Ask a friend if they're busy, and the assistant on their device will check their calendar and respond automatically.
@@ -9,40 +9,34 @@ Ask how far away they are, and the assistant will check the users location and a
 Personal project to be released soon.
 <br>
 
-#### Grocery Cop
-|![](images/grocery1.png)  | ![](images/grocery2.png)  | ![](images/grocery3.png)|
-|--------------------------|---------------------------|-------------------------|
-| ![](images/grocery1.png) |  ![](images/grocery1.png) | ![](images/grocery1.png)|
+## Grocery Cop
+![](images/grocery1.png)
 
 Want to save money on your groceries?
 
 See all the current products, and compare their prices between Australia's two biggest supermarkets, Coles and Woolworths.
-#### Verby Nouns
+## Verby Nouns
 
-
-|![](images/verby1.png)  | ![](images/verby2.png)  | ![](images/verby3.png)|
-:----------------------:|:-----------------------:|:----------------------:
+![](images/verby1.png)
 
 Mobile games with Verby Noun titles are all the craze, this app lets you create your own Verby Noun game titles.
 
 [App Store](https://itunes.apple.com/au/app/verby-nouns/id1098076437?mt=8#)
 <br>
 
-#### Punters
+## Punters
 
-|![](images/punters1.jpg)  | ![](images/punters2.jpg)  | ![](images/punters3.jpg)|
-:-------------------------:|:-------------------------:|:-----------------------:
+![](images/punters1.jpg)
 
 Predict the outcome of races based on a horses' past performance, compare bookmaker prices, sell your tips, and chat with other punters.
 
 Australia only. [App Store](https://itunes.apple.com/au/app/punters-horse-racing-form/id916114449?mt=8)
 <br>
 
-#### Best Odds
+## Best Odds
 
 
-|![](images/bestodds1.jpg) | ![](images/bestodds2.jpg) | ![](images/bestodds3.jpg)|
-:-------------------------:|:-------------------------:|:------------------------:
+![](images/bestodds1.jpg)
 
 Compare bookmaker odds and prices for a large variety of sporting events.
 
@@ -62,28 +56,26 @@ All you need to do is answer a simple question: "Which task requires more effort
 [App Store](https://itunes.apple.com/au/app/task-sorter/id1054858255?mt=8)
 <br>
 
-#### Guitar Trainer
+## Guitar Trainer
 ![](images/trainer1.jpg)
 
 Practice your chords, sight-reading, strumming, and playing to a metronome all at the same time.
 [App Store](https://itunes.apple.com/us/app/guitar-chord-poker/id706625885?mt=8) Now on TV
 <br>
 
-#### Music Resources
+## Music Resources
 
 
-|![](images/resources1.jpeg) | ![](images/resources2.jpeg) | ![](images/resources3.jpeg)|
-:---------------------------:|:---------------------------:|:--------------------------:
+![](images/resources1.jpeg)
 
 Huge collection of music worksheets, diagrams and charts for music teachers and students.
 [App Store](https://itunes.apple.com/au/app/music-resources-theory-worksheets/id511267746?mt=8)
 
 <br>
-#### Trash Talker
+## Trash Talker
 
+![](images/trash1.jpg)
 
-|![](images/trash1.jpg).   | ![](images/trash2.jpg)   |
-:-------------------------:|:------------------------:
 Pick a character, cover your mouth with your device, and start talking! The character's mouth animations change depending on how loud you speak. 
 [App Store](https://itunes.apple.com/au/app/trash-talker/id778247287?mt=8)
 
@@ -91,20 +83,18 @@ Pick a character, cover your mouth with your device, and start talking! The char
 
 <br>
 
-#### Splat
+## Splat
 
-|![](images/splat1.jpeg) | ![](images/splat2.jpeg) |
-:-----------------------:|:-----------------------:
+![](images/splat2.jpeg)
 
 This app is just like the card game "Snap!", except with a Trash Pack theme.
 [App Store](https://itunes.apple.com/us/app/splat/id812654506?mt=8)
 
 <br>
 
-#### Mystery of the Lost Red Scarf
+## Mystery of the Lost Red Scarf
 
-|![](images/scarf1.jpg) | ![](images/scarf2.jpg) |
-:----------------------:|:----------------------:
+![](images/scarf1.jpg)
 
 Interactive storybook for children. It features facts for all ages, and alternate endings. Created with beautiful watercolour artwork.
 [App Store](https://itunes.apple.com/au/app/mystery-lost-red-scarf-magical/id890732956?mt=8)
