@@ -1,5 +1,5 @@
 #### flunky
-![](flunky.png)
+![](images/flunky.png)
 
 A new kind of chat application with a built in passive personal assistant. Ask a friend if they're busy, and the assistant on their device will check their calendar and respond automatically.
 
@@ -12,9 +12,9 @@ Personal project to be released soon.
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2016/11/Screen-Shot-2016-11-15-at-7.26.22-pm.png" width=100%></td> 
-    <td><img src="/content/images/2016/11/Screen-Shot-2016-11-15-at-7.26.36-pm.png" width=100%></td>
-    <td><img src="/content/images/2016/11/Screen-Shot-2016-11-15-at-7.26.46-pm.png" width=100%></td>
+    <td><img src="images/grocery1.png" width=100%></td> 
+    <td><img src="images/grocery2.png" width=100%></td>
+    <td><img src="images/grocery3.png" width=100%></td>
   </tr>
 </table>
 
@@ -25,9 +25,9 @@ See all the current products, and compare their prices between Australia's two b
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2016/04/Simulator-Screen-Shot-13-Apr-2016--1-04-31-PM.png" width=100%></td> 
-    <td><img src="/content/images/2016/04/Simulator-Screen-Shot-13-Apr-2016--1-05-24-PM.png" width=100%></td>
-    <td><img src="/content/images/2016/04/Simulator-Screen-Shot-13-Apr-2016--1-06-29-PM.png" width=100%></td>
+    <td><img src="images/verby1.png" width=100%></td> 
+    <td><img src="images/verby2.png" width=100%></td>
+    <td><img src="images/verby3.png" width=100%></td>
   </tr>
 </table>
 
@@ -40,9 +40,9 @@ Mobile games with Verby Noun titles are all the craze, this app lets you create 
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/11/punters1_opt.jpg" width=100%></td>
-    <td><img src="/content/images/2015/11/punters2_opt.jpg" width=100%></td> 
-    <td><img src="/content/images/2015/11/punters3_opt.jpg" width=100%></td>
+    <td><img src="images/punters1.jpg" width=100%></td>
+    <td><img src="images/punters2.jpg" width=100%></td> 
+    <td><img src="images/punters3.jpg" width=100%></td>
   </tr>
 </table>
 
@@ -55,9 +55,9 @@ Australia only. [App Store](https://itunes.apple.com/au/app/punters-horse-racing
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/11/bestodds1.jpg" width=100%></td>
-    <td><img src="/content/images/2015/11/bestodds2.jpg" width=100%></td> 
-    <td><img src="/content/images/2015/11/bestodds3.jpg" width=100%></td>
+    <td><img src="images/bestodds1.jpg" width=100%></td>
+    <td><img src="images/bestodds2.jpg" width=100%></td> 
+    <td><img src="images/bestodds3.jpg" width=100%></td>
   </tr>
 </table>
 
@@ -70,9 +70,9 @@ Australia Only. [App Store](https://itunes.apple.com/au/app/best-odds-compare-bo
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/12/Simulator-Screen-Shot-28-Dec-2015--11-54-05-AM.png" width=100%></td>
-    <td><img src="/content/images/2015/12/Simulator-Screen-Shot-28-Dec-2015--11-54-16-AM.png" width=100%></td> 
-    <td><img src="/content/images/2015/12/Simulator-Screen-Shot-28-Dec-2015--11-54-24-AM.png" width=100%></td>
+    <td><img src="images/tasksorter1.png" width=100%></td>
+    <td><img src="images/tasksorter2.png" width=100%></td> 
+    <td><img src="images/tasksorter3.png" width=100%></td>
   </tr>
 </table>
 
@@ -84,12 +84,7 @@ All you need to do is answer a simple question: "Which task requires more effort
 <br>
 
 #### Guitar Trainer
-
-<table style="width:100%">
-  <tr>
-    <td><img src="/content/images/2015/11/0x0ss.jpg" width=100%></td>
-  </tr>
-</table>
+![](images/trainer1.jpg)
 
 Practice your chords, sight-reading, strumming, and playing to a metronome all at the same time.
 [App Store](https://itunes.apple.com/us/app/guitar-chord-poker/id706625885?mt=8) Now on TV
@@ -99,9 +94,9 @@ Practice your chords, sight-reading, strumming, and playing to a metronome all a
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/12/screen568x568.jpeg" width=100%></td>
-    <td><img src="/content/images/2015/12/screen568x568-2.jpeg" width=100%></td> 
-    <td><img src="/content/images/2015/12/screen568x568-3.jpeg" width=100%></td>
+    <td><img src="images/resources1.jpeg" width=100%></td>
+    <td><img src="images/resources2.jpeg" width=100%></td> 
+    <td><img src="images/resources3.jpeg" width=100%></td>
   </tr>
 </table>
 
@@ -113,8 +108,8 @@ Huge collection of music worksheets, diagrams and charts for music teachers and 
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/11/trash1.jpg" width=100%></td>
-    <td><img src="/content/images/2015/11/trash2.jpg" width=100%></td> 
+    <td><img src="images/trash1.jpg" width=100%></td>
+    <td><img src="images/trash2.jpg" width=100%></td> 
   </tr>
 </table>
 
@@ -129,9 +124,8 @@ Pick a character, cover your mouth with your device, and start talking! The char
 
 <table style="width:100%">
   <tr>
-    <td><img src="/content/images/2015/11/screen480x480.jpeg" width=100%></td>
-    <td><img src="(/content/images/2015/11/screen480x480-2-1.jpeg" width=100%></td> 
-    <td><img src="/content/images/2015/11/screen480x480-3.jpeg" width=100%></td>
+    <td><img src="images/splat1.jpeg" width=100%></td>
+    <td><img src="images/splat2.jpeg" width=100%></td> 
   </tr>
 </table>
 
@@ -143,8 +137,8 @@ This app is just like the card game "Snap!", except with a Trash Pack theme.
 #### Mystery of the Lost Red Scarf
 <table style="width:100%">
   <tr>
-<td><img src="/content/images/2015/11/scarf2.jpg" width=100%></td>
-    <td><img src="/content/images/2015/11/scarf1.jpg" width=100%></td>
+<td><img src="images/scarf2.jpg" width=100%></td>
+    <td><img src="images/scarf1.jpg" width=100%></td>
   </tr>
 </table>
 Interactive storybook for children. It features facts for all ages, and alternate endings. Created with beautiful watercolour artwork.
