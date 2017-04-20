@@ -1,4 +1,3 @@
-title: Beau Nouvelle
 
 #### flunky
 ![](images/flunky.png)
