@@ -1,5 +1,5 @@
 #### flunky
-![](/content/images/2016/09/Screen-Shot-2016-08-04-at-7-51-50-pm.png)
+![](BeauNouvelle.github.io/flunky.png)
 
 A new kind of chat application with a built in passive personal assistant. Ask a friend if they're busy, and the assistant on their device will check their calendar and respond automatically.
 
