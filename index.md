@@ -1,4 +1,7 @@
 
+## Work at LOKE
+![](images/baskinRobbins.png) ![](images/nandos.png) ![](images/messina.png)
+
 ## flunky
 ![](images/flunky.png)
 
