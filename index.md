@@ -2,6 +2,8 @@
 ## Work at LOKE
 ![](images/baskinRobbins.png) ![](images/nandos.png) ![](images/messina.png)
 
+We build and ship hundreds of loyalty/payment apps for companies all around the world.
+
 ## flunky
 ![](images/flunky.png)
 
