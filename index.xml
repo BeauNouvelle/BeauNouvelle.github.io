@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beau Nouvelle - iOS Developer and Software Consultant based in Melbourne, Australia</title>
-    <link>https://beaunouvelle.com/</link>
+    <link>https://beaunouvelle.github.io/</link>
     <description>Recent content on Beau Nouvelle - iOS Developer and Software Consultant based in Melbourne, Australia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://beaunouvelle.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beaunouvelle.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
